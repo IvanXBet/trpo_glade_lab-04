@@ -1,0 +1,2 @@
+Apple;10;img-apple.png;
+Orange;15;img-orange.png;
